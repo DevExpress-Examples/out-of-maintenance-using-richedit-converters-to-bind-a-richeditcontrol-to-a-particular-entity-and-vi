@@ -1,5 +1,4 @@
-﻿Imports Microsoft.VisualBasic
-Imports System.IO
+﻿Imports System.IO
 Imports System.Windows
 
 Namespace RichEditBindingConvertersWpf
@@ -8,6 +7,7 @@ Namespace RichEditBindingConvertersWpf
 	''' </summary>
 	Partial Public Class MainWindow
 		Inherits Window
+
 		Public Sub New()
 			InitializeComponent()
 		End Sub
